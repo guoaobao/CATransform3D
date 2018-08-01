@@ -111,7 +111,6 @@
         tmpPoint.x=angleX;
         tmpPoint.y=angleY;
     }
-    ////////
 }
 
 
